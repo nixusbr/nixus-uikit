@@ -1,26 +1,26 @@
 // Setup
 @import 'bootstrap/scss/functions';
 
-@import 'themes/default';
+@import 'themes/nixus-a';
 @import 'user-variables';
-@import 'front/variables';
+@import 'nixus-a/variables';
 
 @import 'bootstrap/scss/variables';
 @import 'bootstrap/scss/maps';
 @import 'bootstrap/scss/utilities';
 
-@import 'front/utilities';
+@import 'nixus-a/utilities';
 @import 'user-utilities';
 
 // Bootstrap core
 @import 'bootstrap/scss/bootstrap';
 
 /*----------------------------------------------------------------------
-  * Nixus Uikit - Responsive Website Template version v4.0.0
-  * Copyright 2021 Nixus
+  * Nixus Uikit - Responsive Website Template version v1.0.1
+  * Copyright 2023 Nixus
 ------------------------------------------------------------------------*/
 
-@import 'front/front';
+@import 'nixus-a/nixus-a';
 
 // Custom core
 @import 'user';
